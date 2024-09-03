@@ -1,0 +1,63 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+header{
+    width: 100%;
+    height: 165px;
+    display: block;
+    float: left;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqiwK60WZUfP8s1zlphZ0L_fIIWNmULl3X3Q&s");
+
+}
+header h1{
+    text-align: center;
+    margin-top: 70px;
+    color: #070707;
+text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #49ff18, 0 0 30px #49FF18, 0 0 40px #49FF18, 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
+main{
+    width: 100% ;
+    height: 100 px;
+    display: block;
+    float: left;
+    background-color: rgb(116, 197, 147);
+}
+main img{
+    width: 400px;
+    float: left;
+    margin-top: 20px;
+}
+img{
+    margin-left: 35%;
+    
+}
+main p{
+    text-align: center;
+    margin-top: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+footer{
+    width: 100%;
+    height: 300px;
+    display: block;
+    float: left;
+    background-color:   rgb(116, 197, 147);
+} 
+footer section{
+    width: 33.3%;
+    height: 500px;
+    float: left;
+    display: block;
+    background-color:  rgb(116, 197, 147);
+    margin-top: 20px;
+}
+footer section:first-child{
+    background-color: rgb(116, 197, 147);
+    margin-top: 20px;
+}
+footer section:last-child{
+    background-color:rgb(116, 197, 147);     ;
+    margin-top: 20px;
+}

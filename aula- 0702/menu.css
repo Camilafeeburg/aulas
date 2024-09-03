@@ -1,0 +1,43 @@
+#menu ul li{
+    list-style-type: none;
+    float: left;
+}
+#menu ul li a{
+    background-color: rgb(161, 108, 211);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+#menu ul li a:hover{
+    background-color: rgba(71, 71, 126, 0.911);
+    text-decoration: underline;
+}
+.bloco{
+width: 50%;
+height: auto;
+display: block;
+float: left;
+
+}
+.bloco img{
+    width: 40%;
+    
+}
+.bloco p{
+    width: 40%;
+    margin: 5%;
+}
+.esq{
+    float: left;
+}
+.dir{
+    float: right;
+}
+.corPreto{
+    background-color: rgb(55, 41, 104);
+}
+.quebra{
+    clear: both;
+    margin-bottom: 30px;
+}
